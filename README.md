@@ -6,5 +6,5 @@
 -第三步
 
 ```
-system.out.println("123");
+System.out.println("123");
 ```
